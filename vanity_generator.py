@@ -7,7 +7,7 @@ Fast, multithreaded Bitcoin vanity address generator that supports:
 - Legacy addresses (starts with 1Veronica)
 - Bech32 addresses (starts with bc1qveronice)
 
-Author: Grok for you
+Author: Veronica
 Version: 1.0.0
 License: MIT
 """
