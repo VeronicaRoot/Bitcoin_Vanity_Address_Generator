@@ -1,3 +1,5 @@
+Contact qTox: 18EAB3D22CD3B9773AF7FBF51E818C8DA779048DF561B497FE944D6E1B92097883DBA8B805E3
+
 
 <!DOCTYPE html>
 <html lang="tr">
@@ -62,3 +64,5 @@ Bashpython vanity_generator.py --prefix "bc1qveronice" --type bech32 --threads 1
 On a 12-core CPU you can expect ~500.000 - 1.000.000 keys/second depending on prefix length.
 🔒 Security
 Private keys are generated with os.urandom + ecdsa library. Never share your private keys!
+
+
